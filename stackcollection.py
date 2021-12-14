@@ -8,7 +8,7 @@ stack = deque()
 
 
 def push(value):
-    stack.appendleft(value)
+    stack.append(value)
 
 # display items in the collection
 
